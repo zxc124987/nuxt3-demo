@@ -1,4 +1,0 @@
-const index_vue_vue_type_style_index_0_scoped_28a5c41d_lang = ".login[data-v-28a5c41d]{background:linear-gradient(135deg,#f5f5f8 22px,rgba(0,0,0,.039) 0,rgba(0,0,0,.039) 24px,transparent 0,transparent 67px,rgba(0,0,0,.039) 0,rgba(0,0,0,.039) 69px,transparent 0),linear-gradient(225deg,#f5f5f8 22px,rgba(0,0,0,.039) 0,rgba(0,0,0,.039) 24px,transparent 0,transparent 67px,rgba(0,0,0,.039) 0,rgba(0,0,0,.039) 69px,transparent 0) 0 64px;background-color:#f5f5f8;background-size:64px 128px;height:100vh}.login .el-form[data-v-28a5c41d]{background-color:#fff;border:1px solid #c8ced3;border-radius:10px;left:50%;padding:40px;position:absolute;top:50%;transform:translate(-50%,-50%);width:300px}.login .el-form .el-button[data-v-28a5c41d]{margin-top:20px;width:100%}";
-
-export { index_vue_vue_type_style_index_0_scoped_28a5c41d_lang as i };
-//# sourceMappingURL=index-styles-1.mjs-CW3HrgBm.mjs.map
