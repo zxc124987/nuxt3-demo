@@ -1,0 +1,1 @@
+import{af as s,c as n,a as c,t as a,n as r,o as u}from"./Djh_mYXA.js";const f={__name:"[number]",setup(m){const e=s(),o=e.params.workNo,t=e.params.number;return(p,l)=>(u(),n("div",null,[c("p",null,"Page: verify/"+a(r(o))+"/category/"+a(r(t)),1)]))}};export{f as default};
