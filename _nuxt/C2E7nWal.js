@@ -1,1 +1,0 @@
-import{_ as a,v as r}from"./DA0YG3TV.js";import{s,aa as c,n as i,o as l,c as _,b as u,A as d}from"./Djh_mYXA.js";import{u as m}from"./DdeZJquS.js";const k=s({__name:"login",setup(p){const{loading:e}=m();return(o,f)=>{const t=a,n=r;return c((l(),_("div",null,[u(t,{height:4,throttle:0}),d(o.$slots,"default")])),[[n,i(e),void 0,{fullscreen:!0,lock:!0}]])}}});export{k as default};
