@@ -1,0 +1,1 @@
+import{bm as i,r}from"./Upv7kCFk.js";const y=i("verifyStore",()=>{const t=r([]),s=r({});return{verifyLists:t,setVerifyLists:e=>{t.value=e},verifyDetail:s,setVerifyDetail:e=>{s.value=e}}});export{y as u};
