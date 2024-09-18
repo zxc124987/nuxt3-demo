@@ -1,0 +1,1 @@
+import{ao as s,c as n,a as c,t as a,z as o,o as u}from"./ZH-tWQHg.js";const i={__name:"[number]",setup(m){const e=s(),r=e.params.workNo,t=e.params.number;return(p,l)=>(u(),n("div",null,[c("p",null,"Page: verify/"+a(o(r))+"/category/"+a(o(t)),1)]))}};export{i as default};
